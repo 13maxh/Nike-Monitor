@@ -1,0 +1,28 @@
+{
+  "name": "sneakermonitor",
+  "version": "1.0.0",
+  "description": "monitor",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronmansfield5/SNKRS-Monitor.git"
+  },
+  "keywords": [
+    "node",
+    "app.js"
+  ],
+  "author": "max",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaronmansfield5/SNKRS-Monitor/issues"
+  },
+  "homepage": "https://github.com/aaronmansfield5/SNKRS-Monitor#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "request": "^2.88.2",
+    "requests": "^0.3.0"
+  }
+}
